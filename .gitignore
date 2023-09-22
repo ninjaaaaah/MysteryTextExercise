@@ -1,0 +1,38 @@
+# IntelliJ IDEA files
+.idea/
+
+# Gradle
+.gradle/
+build/
+
+# Maven
+target/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Compiled Java classes and libraries
+*.class
+*.jar
+*.war
+*.ear
+
+# Compiled Python files
+__pycache__/
+*.pyc
+
+
+# Visual Studio Code
+.vscode/
